@@ -8,10 +8,6 @@
 body {
   background: #f8f8f8;
   color: #333;
-  background-image: url('restau.jpeg');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
 }
 
 header {
@@ -32,9 +28,9 @@ nav a:hover {
 
 .container {
   padding: 40px;
-  color: black;
+  color: green;
   font-weight: 900;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 h1, h2 {
@@ -93,4 +89,3 @@ footer {
     font-weight: 200;
     font-size: 20px;
 }
-
